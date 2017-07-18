@@ -1,5 +1,7 @@
 package com.mojang.authlib;
 
+import com.mojang.authlib.properties.PropertyMap;
+
 import java.util.UUID;
 
 public class GameProfile {

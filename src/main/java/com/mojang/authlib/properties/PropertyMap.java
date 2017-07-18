@@ -1,4 +1,4 @@
-package com.mojang.authlib;
+package com.mojang.authlib.properties;
 
 import com.google.common.collect.ForwardingMultimap;
 import com.google.common.collect.LinkedHashMultimap;
